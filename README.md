@@ -6,11 +6,11 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ## List of categories
 
-* ### General Use
+* ### General Coding
 
 | Title | Description | Link |
 |-------|-------------|------|
-| Auto-label incoming Gmail messages with AI nodes | Automatically labels incoming Gmail messages using AI. The workflow retrieves message content, suggests labels like Partnership or Inquiry, and assigns them for better organization. | [Link to Template](Gmail_and_Email_Automation/Auto-label%20incoming%20Gmail%20messages%20with%20AI%20nodes.txt) |
+| GitDocify | AI. Automatically create documentation for your GitHub repositories. | [GitDocify.com](https://gitdocify.com/) |
 | Basic Automatic Gmail Email Labelling with OpenAI and Gmail API | Uses OpenAI and Gmail API to trigger on new emails, analyze content, and assign or create labels automatically. Helps categorize emails efficiently using AI. | [Link to Template](Gmail_and_Email_Automation/Basic%20Automatic%20Gmail%20Email%20Labelling%20with%20OpenAI%20and%20Gmail%20API.txt) |
 | Compose reply draft in Gmail with OpenAI Assistant | Generates draft replies in Gmail using OpenAI. Triggers on new emails, extracts content, and creates a suggested reply draft to streamline responses. | [Link to Template](Gmail_and_Email_Automation/Compose%20reply%20draft%20in%20Gmail%20with%20OpenAI%20Assistant.txt) |
 | Analyze & Sort Suspicious Email Contents with ChatGPT | Analyzes suspicious emails using ChatGPT, classifies them, and can generate screenshots for review. Helps identify and sort potentially dangerous emails. | [Link to Template](Gmail_and_Email_Automation/Analyze%20&%20Sort%20Suspicious%20Email%20Contents%20with%20ChatGPT.txt) |
