@@ -22,7 +22,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 * ### Web
 
 * ### PC Building
-  See my [PC building guide]() on my GitHub ! 😊
+  See my [PC building guide](https://github.com/Mxm-Bdrd/The-PC-Building-Guide) on my GitHub ! 😊
 
 * ### 3D Printing
   See my [3D printing guide]() on my GitHub ! 😊
