@@ -17,7 +17,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 | Title | Description | Link |
 |-------|-------------|------|
-| iFixit 👑 | If it exists, their is a iFixit repair tutorial of it. All from electronics repair to car miantenance. | [ifixit.com](https://www.ifixit.com/Guide) |
+| iFixit 👑 | If it exists, their is a iFixit repair tutorial of it. All from electronics repairs to car maintenance. | [ifixit.com](https://www.ifixit.com/Guide) |
 | CarCareKiosk | Car maintenance tutorials for most vehicules on the market and older. Adblocker recommended. | [carcarekiosk.com](Carcarekiosk.com) |
 
 * ### Web
