@@ -6,7 +6,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ## List of categories
 
-### Gmail & Email Automation
+### - General Use
 
 | Title | Description | Department | Link |
 |-------|-------------|------------|------|
