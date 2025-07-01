@@ -10,15 +10,15 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 | Title | Description | Link |
 |-------|-------------|------|
-| GitDocify | AI. Automatically create documentation for your GitHub repositories. | [gitdocify.com](https://gitdocify.com/) |
-| GitHub Copilot | AI. Coding assistant trained on the GitHub public database. Can also analyse your repositories for assistance. Available as a chatbot or IDE extension. | [On GitHub](https://github.com/copilot) |
+| GitDocify | AI-powered tool that automatically creates documentation for your GitHub repositories. | [gitdocify.com](https://gitdocify.com/) |
+| GitHub Copilot | AI coding assistant trained on public GitHub repositories. It can also analyze your own repos to assist you. Available as a chatbot or IDE extension. | [On GitHub](https://github.com/copilot) |
 
 * ### Repairs/Maintenance
 
 | Title | Description | Link |
 |-------|-------------|------|
-| iFixit 👑 | If it exists, their is a iFixit repair tutorial of it. All from electronics repairs to car maintenance. | [ifixit.com](https://www.ifixit.com/Guide) |
-| CarCareKiosk | Car maintenance tutorials for most vehicules on the market and older. Adblocker recommended. | [carcarekiosk.com](Carcarekiosk.com) |
+| iFixit 👑 | If it exists, there's an iFixit repair tutorial for it — from electronics to car maintenance. | [ifixit.com](https://www.ifixit.com/Guide) |
+| CarCareKiosk | Car maintenance tutorials for most vehicles on the market, including older models. Adblocker recommended. | [carcarekiosk.com](https://www.carcarekiosk.com/) |
 
 * ### Web
 
