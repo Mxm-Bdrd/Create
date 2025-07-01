@@ -11,4 +11,4 @@ This repository is a collection of software sourced from the internet. Its goal 
 | Title | Description | Link |
 |-------|-------------|------|
 | GitDocify | AI. Automatically create documentation for your GitHub repositories. | [GitDocify.com](https://gitdocify.com/) |
-| GitHub Copilot | AI. Coding assistant trained on the GitHub public database. Available as a chatbot or IDE extension| On GitHub |
+| GitHub Copilot | AI. Coding assistant trained on the GitHub public database. Can also analyse your repositories for assistance. Available as a chatbot or IDE extension. | On GitHub |
