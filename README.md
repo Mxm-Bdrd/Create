@@ -20,3 +20,9 @@ This repository is a collection of software sourced from the internet. Its goal 
 | iFixit | If it exists, their is a iFixit repair tutorial of it. | [ifixit.com](https://www.ifixit.com/Guide) |
 
 * ### Web
+
+* ### PC Building
+  See my PC building guide on my GitHub ! 😊
+
+* ### 3D Printing
+  See my PC building guide on my GitHub ! 😊
