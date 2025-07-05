@@ -13,6 +13,11 @@ This repository is a collection of software sourced from the internet. Its goal 
 | GitDocify | AI-powered tool that automatically creates documentation for your GitHub repositories. | [gitdocify.com](https://gitdocify.com/) |
 | GitHub Copilot | AI coding assistant trained on public GitHub repositories. It can also analyze your own repos to assist you. Available as a chatbot or IDE extension. | [On GitHub](https://github.com/copilot) |
 
+* ### 3D modeling
+| Title | Description | Link |
+|-------|-------------|------|
+| nvidia PartPacker |  | [github.com/NVlabs/PartPacker](https://github.com/NVlabs/PartPacker) |
+
 * ### Repairs/Maintenance
 
 | Title | Description | Link |
