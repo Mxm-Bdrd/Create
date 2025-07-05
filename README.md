@@ -16,7 +16,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 * ### 3D modeling
 | Title | Description | Link |
 |-------|-------------|------|
-| nvidia PartPacker |  | [github.com/NVlabs/PartPacker](https://github.com/NVlabs/PartPacker) |
+| nvidia PartPacker | 2D to 3D | [github.com/NVlabs/PartPacker](https://github.com/NVlabs/PartPacker) |
 
 * ### Repairs/Maintenance
 
