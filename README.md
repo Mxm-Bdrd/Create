@@ -15,7 +15,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 - [🔒 Privacy & Anonymity](#-privacy--anonymity)
 - [🎓 Schoolwork & Learning](#-schoolwork--learning)
 - [🌐 Web Utilities & Interactives](#-web-utilities--interactives)
-- [✈️ Travel & Accommodation](#-travel--and-accommodation)
+- [✈️ Travel & Accommodation](#-travel--accommodation)
 - [🖥️ PC Building](#pc-building)
 - [🧩 3D Printing](#-3d-printing)
 
