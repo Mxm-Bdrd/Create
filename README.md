@@ -6,18 +6,18 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ## 📚 List of Categories
 
-- [🧠 General Coding](#-general-coding)
-- [🔄 Automation & Scripting](#-automation--scripting)
-- [🛠️ 3D CAD & Parametric Modeling](#-3d-cad--parametric-modeling)
-- [🎨 3D Modeling & Creative Tools](#-3d-modeling--creative-tools)
-- [📦 3D Optimization & Slicing](#-3d-optimization--slicing)
-- [🔧 Repairs & Maintenance](#-repairs--maintenance)
-- [🔒 Privacy & Anonymity](#-privacy--anonymity)
-- [🎓 Schoolwork & Learning](#-schoolwork--learning)
-- [🌐 Web Utilities & Interactives](#-web-utilities--interactives)
-- [✈️ Travel & Accommodation](#-travel--accommodation)
-- [🖥️ PC Building](#-pc-building)
-- [🧩 3D Printing](#-3d-printing)
+- [🧠 General Coding](#🧠-general-coding)
+- [🔄 Automation & Scripting](#🔄-automation--scripting)
+- [🛠️ 3D CAD & Parametric Modeling](#🛠️-3d-cad--parametric-modeling)
+- [🎨 3D Modeling & Creative Tools](#🎨-3d-modeling--creative-tools)
+- [📦 3D Optimization & Slicing](#📦-3d-optimization--slicing)
+- [🔧 Repairs & Maintenance](#🔧-repairs--maintenance)
+- [🔒 Privacy & Anonymity](#🔒-privacy--anonymity)
+- [🎓 Schoolwork & Learning](#🎓-schoolwork--learning)
+- [🌐 Web Utilities & Interactives](#🌐-web-utilities--interactives)
+- [✈️ Travel & Accommodation](#✈️-travel--accommodation)
+- [🖥️ PC Building](#🖥️-pc-building)
+- [🧩 3D Printing](#🧩-3d-printing)
 
 ---
 
@@ -36,8 +36,8 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 | Title | Description | Link |
 |-------|-------------|------|
-| n8n 👑 | A powerful **✅ Open Source** workflow‑automation tool for connecting apps and automating tasks, with code‑level customization and easy self‑hosting. | [n8n.io](https://n8n.io/) |
-| Axiom.ai  | A bot creation platform to automate repetitive web tasks without coding. Great for data scraping and task automation. | [axiom.ai](https://axiom.ai/) |
+| n8n 👑 | A powerful **✅ Open Source** workflow-automation tool for connecting apps and automating tasks, with code-level customization and easy self-hosting. | [n8n.io](https://n8n.io/) |
+| Axiom.ai | A bot creation platform to automate repetitive web tasks without coding. Great for data scraping and task automation. | [axiom.ai](https://axiom.ai/) |
 
 ---
 
@@ -77,8 +77,8 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 | Title | Description | Link |
 |-------|-------------|------|
-| iFixit 👑 | A massive guide library of electronics and vehicle repairs. **🛠️ Utility** resource. | [ifixit.com](https://www.ifixit.com/Guide) |
-| CarCareKiosk | A video-based platform for car maintenance. **🛠️ Utility** and especially useful for older vehicles. | [carcarekiosk.com](https://www.carcarekiosk.com/) |
+| iFixit 👑 | A massive guide library of electronics and vehicle repairs. | [ifixit.com](https://www.ifixit.com/Guide) |
+| CarCareKiosk | A video-based platform for car maintenance. Especially useful for older vehicles. | [carcarekiosk.com](https://www.carcarekiosk.com/) |
 
 ---
 
@@ -111,9 +111,9 @@ This repository is a collection of software sourced from the internet. Its goal 
 |-------|-------------|------|
 | Dungeon Scrawl | Browser-based tool to quickly create D&D-style dungeon maps. Great for tabletop planning. | [dungeonscrawl.com](https://dungeonscrawl.com/) |
 | Open Source Alternative | A curated directory of **✅ Open Source** alternatives to popular proprietary software and services. | [opensourcealternative.to](https://opensourcealternative.to/) |
-| QuickRef.me | A collection of concise, well-organized cheat sheets for programmers and developers. **🛠️ Utility** | [quickref.me](https://quickref.me/) |
-| Intel Veracity | Tool to search and monitor data breaches and exposed personal info online. **🛠️ Utility** | [intel.veraxity.org](https://intel.veraxity.org/) |
-| TypingClub | Interactive lessons to improve typing speed and accuracy. **🛠️ Utility** | [typingclub.com](https://www.typingclub.com/) |
+| QuickRef.me | A collection of concise, well-organized cheat sheets for programmers and developers. | [quickref.me](https://quickref.me/) |
+| Intel Veracity | Tool to search and monitor data breaches and exposed personal info online. | [intel.veraxity.org](https://intel.veraxity.org/) |
+| TypingClub | Interactive lessons to improve typing speed and accuracy. | [typingclub.com](https://www.typingclub.com/) |
 
 ---
 
@@ -143,4 +143,5 @@ See my [3D printing guide](https://github.com/Mxm-Bdrd/The-3D-Printing-Guide) on
 ---
 
 ### For more 'open-source' things...
+
 https://www.reddit.com/r/Piracy/wiki/megathread/
