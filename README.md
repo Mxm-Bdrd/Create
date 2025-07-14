@@ -21,8 +21,8 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 | Title | Description | Link |
 |-------|-------------|------|
-| GitDocify | A ![AI](https://img.shields.io/badge/AI-🤖-blueviolet) tool that automatically creates documentation for your GitHub repositories. | [gitdocify.com](https://gitdocify.com/) |
-| GitHub Copilot | A ![AI](https://img.shields.io/badge/AI-🤖-blueviolet) coding assistant trained on public GitHub repositories. Can also analyze your own repos all at once. | [On GitHub](https://github.com/copilot) |
+| GitDocify | A **🤖 AI** tool that automatically creates documentation for your GitHub repositories. | [gitdocify.com](https://gitdocify.com/) |
+| GitHub Copilot | A coding assistant trained on public GitHub repositories. **🤖 AI** based, and can analyze your own repos. | [On GitHub](https://github.com/copilot) |
 
 ---
 
@@ -30,9 +30,9 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 | Title | Description | Link |
 |-------|-------------|------|
-| FreeCAD 👑 | A ![Open Source](https://img.shields.io/badge/Open%20Source-✅-brightgreen) parametric 3D CAD modeler. Supports complex modeling, simulations and assemblies. | [freecad.org](https://www.freecad.org/) |
-| SolveSpace | A lightweight ![Open Source](https://img.shields.io/badge/Open%20Source-✅-brightgreen) 2D/3D parametric CAD tool for mechanical design and STL/DXF export. | [solvespace.com](https://solvespace.com/) |
-| OpenSCAD | A ![Open Source](https://img.shields.io/badge/Open%20Source-✅-brightgreen) modeling tool where 3D objects are defined entirely in code — ideal for parametric automation. | [openscad.org](https://openscad.org/) |
+| FreeCAD 👑 | A parametric CAD modeler. **✅ Open Source** and supports complex modeling, simulations, and assemblies. | [freecad.org](https://www.freecad.org/) |
+| SolveSpace | A lightweight 2D/3D CAD tool ideal for mechanical design and exporting STL/DXF. **✅ Open Source**. | [solvespace.com](https://solvespace.com/) |
+| OpenSCAD | A modeling tool where 3D objects are defined entirely in code — perfect for automation. **✅ Open Source**. | [openscad.org](https://openscad.org/) |
 
 ---
 
@@ -40,7 +40,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 | Title | Description | Link |
 |-------|-------------|------|
-| Blender 👑 | A powerful ![Open Source](https://img.shields.io/badge/Open%20Source-✅-brightgreen) ![Creative](https://img.shields.io/badge/Creative-🎨-pink) 3D suite for artistic modeling, sculpting, animation, and rendering. Can prep models for printing. | [blender.org](https://www.blender.org/) |
+| Blender 👑 | A 3D suite for modeling, sculpting, animation, and rendering. **✅ Open Source** and ideal for creative workflows. | [blender.org](https://www.blender.org/) |
 
 ---
 
@@ -48,10 +48,10 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 | Title | Description | Link |
 |-------|-------------|------|
-| NVIDIA PartPacker 👑 | A ![Open Source](https://img.shields.io/badge/Open%20Source-✅-brightgreen) ![Utility](https://img.shields.io/badge/Utility-🛠️-informational) tool that arranges 3D parts for efficient resin printing or CNC prep. | [GitHub Repo](https://github.com/NVlabs/PartPacker) |
-| OrcaSlicer 👑 | A ![Open Source](https://img.shields.io/badge/Open%20Source-✅-brightgreen) ![Hybrid](https://img.shields.io/badge/Hybrid-🎯-orange) slicer for FDM and resin. Fork of Bambu Studio with fast updates and powerful features. | [orcabuilder.com](https://www.orcabuilder.com/) |
-| PrusaSlicer | A ![Open Source](https://img.shields.io/badge/Open%20Source-✅-brightgreen) ![Hybrid](https://img.shields.io/badge/Hybrid-🎯-orange) slicer maintained by Prusa Research. Supports FDM and resin with great control. | [prusa3d.com](https://www.prusa3d.com/page/prusaslicer_424/) |
-| Lychee Slicer | A ![Resin](https://img.shields.io/badge/Resin-🧫-purple) slicer focused on ease of use, smart supports, STL repair, and modern UI. | [mango3d.io](https://mango3d.io/) |
+| NVIDIA PartPacker 👑 | A tool that arranges 3D parts efficiently for resin printing or CNC prep. **✅ Open Source**. | [GitHub Repo](https://github.com/NVlabs/PartPacker) |
+| OrcaSlicer 👑 | A slicer for FDM and resin printing with excellent features. **✅ Open Source**. | [orcabuilder.com](https://www.orcabuilder.com/) |
+| PrusaSlicer | A well-supported slicer for FDM and resin. **✅ Open Source** and maintained by Prusa Research. | [prusa3d.com](https://www.prusa3d.com/page/prusaslicer_424/) |
+| Lychee Slicer | A slicer focused on resin printing with smart supports and STL repair. 🧫 **Resin**. | [mango3d.io](https://mango3d.io/) |
 
 ---
 
@@ -59,8 +59,8 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 | Title | Description | Link |
 |-------|-------------|------|
-| iFixit 👑 | A comprehensive ![Utility](https://img.shields.io/badge/Utility-🛠️-informational) library of repair guides — from electronics to cars. Crowdsourced and detailed. | [ifixit.com](https://www.ifixit.com/Guide) |
-| CarCareKiosk | A video-based ![Utility](https://img.shields.io/badge/Utility-🛠️-informational) platform for car maintenance, including older models. Ad blocker recommended. | [carcarekiosk.com](https://www.carcarekiosk.com/) |
+| iFixit 👑 | A massive guide library of electronics and vehicle repairs. **🛠️ Utility** resource. | [ifixit.com](https://www.ifixit.com/Guide) |
+| CarCareKiosk | A video-based platform for car maintenance. **🛠️ Utility** and especially useful for older vehicles. | [carcarekiosk.com](https://www.carcarekiosk.com/) |
 
 ---
 
