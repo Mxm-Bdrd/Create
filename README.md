@@ -84,13 +84,14 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 | Title             | Description                                               | Link                     |
 |-------------------|-----------------------------------------------------------|--------------------------|
-| Anara             | Research tool for finding academic papers and resources. | [anara.com](https://anara.com/) |
-| Deepwebnest       | Archive of pirated books and academic materials.          | [deepwebnest.com](https://deepwebnest.com/) |
-| Class Central     | Aggregator of free online courses from top providers.     | [classcentral.com](https://www.classcentral.com/) |
-| Wolfram Alpha 👑  | Powerful AI math solver and computational engine.         | [wolframalpha.com](https://www.wolframalpha.com/) |
-| Library Genesis (LibGen) | Large repository of pirated books and academic content. | [libgen.rs](https://libgen.rs/), [libgen.is](https://libgen.is/) |
-| Internet Archive  | Massive archive including pirated books and media.        | [archive.org](https://archive.org/) |
-| Anna’s Archive    | Mirror of the Internet Archive focusing on academic works.| [annas-archive.org](https://annas-archive.org/) |
+| Wolfram Alpha 👑  | A powerful computational engine that solves math problems, provides data, and answers queries using AI. | [wolframalpha.com](https://www.wolframalpha.com/) |
+| Anna’s Archive 👑 | A mirror of the Internet Archive focusing on preserving and providing access to academic and scholarly content. | [annas-archive.org](https://annas-archive.org/) |
+| Anara             | A research platform that helps you find academic papers, journals, and scholarly articles efficiently. | [anara.com](https://anara.com/) |
+| Deepwebnest       | An online repository offering access to a wide range of pirated academic books and research materials. | [deepwebnest.com](https://deepwebnest.com/) |
+| Class Central     | A comprehensive aggregator of free online courses from top universities and institutions worldwide. | [classcentral.com](https://www.classcentral.com/) |
+| Library Genesis (LibGen) | A vast digital library offering free access to millions of academic books and articles. | [libgen.rs](https://libgen.rs/), [libgen.is](https://libgen.is/) |
+| Internet Archive  | A massive digital archive containing books, academic papers, and multimedia resources freely accessible to all. | [archive.org](https://archive.org/) |
+
 
 ---
 
