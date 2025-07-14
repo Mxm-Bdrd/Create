@@ -22,6 +22,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 | Title | Description | Link |
 |-------|-------------|------|
 | VSCodium 👑 | A fully **✅ Open Source** build of the Visual Studio Code IDE without telemetry or proprietary Microsoft features. | [vscodium.com](https://vscodium.com/) |
+| Hugging Face 👑 | **✅ Open Source** platform for hosting and sharing ML models. Can run models in the cloud with just an API call. | [huggingface.co](https://huggingface.co/) |
 | GitDocify | A **🤖 AI** tool that automatically creates documentation for your GitHub repositories. | [gitdocify.com](https://gitdocify.com/) |
 | GitHub Copilot | A coding assistant trained on public GitHub repositories. **🤖 AI** based, and can analyze your own repos. | [On GitHub](https://github.com/copilot) |
 
