@@ -47,6 +47,8 @@ This repository is a collection of software sourced from the internet. Its goal 
 |-------|-------------|------|
 | Blender 👑 | A 3D suite for modeling, sculpting, animation, and rendering. **✅ Open Source** and ideal for creative workflows. | [blender.org](https://www.blender.org/) |
 | Hunyuan3D | An **🤖 AI**-powered **✅ Open Source** tool that converts 2D images into 3D models, supporting efficient 3D asset creation. | [GitHub Repo](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) |
+| Meshy | A **🤖 AI** platform for converting 2D images into textured 3D meshes. Simplifies the creation of stylized assets. | [meshy.ai](https://meshy.ai/) |
+| Backflip | Turn 2D images into detailed 3D models using **🤖 AI** diffusion-based techniques. Ideal for quick concept visualizations. | [app.backflip.ai](https://app.backflip.ai/) |
 
 ---
 
