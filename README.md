@@ -11,6 +11,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 - [🎨 3D Modeling / Creative Tools](#-3d-modeling--creative-tools)
 - [📦 3D Optimization / Slicing](#-3d-optimization--slicing)
 - [🔧 Repairs / Maintenance](#-repairs--maintenance)
+- [🔒 Privacy & Anonymity](#-privacy--anonymity)
 - [🌐 Web Utilities](#-web-utilities)
 - [✈️ Travel & Accommodation](#-travel--accommodation)
 - [🖥️ PC Building](#-pc-building)
@@ -64,6 +65,17 @@ This repository is a collection of software sourced from the internet. Its goal 
 |-------|-------------|------|
 | iFixit 👑 | A massive guide library of electronics and vehicle repairs. **🛠️ Utility** resource. | [ifixit.com](https://www.ifixit.com/Guide) |
 | CarCareKiosk | A video-based platform for car maintenance. **🛠️ Utility** and especially useful for older vehicles. | [carcarekiosk.com](https://www.carcarekiosk.com/) |
+
+---
+
+### 🔒 Privacy & Anonymity
+
+| Title             | Description                                            | Link                       |
+|-------------------|--------------------------------------------------------|----------------------------|
+| DataFakeGenerator | Generate realistic fake identities for testing or privacy. | [datafakegenerator.com](https://datafakegenerator.com/) |
+| Quackr            | Temporary "burn" phone numbers for SMS verification.     | [quackr.io](https://quackr.io/) |
+| OnlineSim         | Disposable phone numbers for SMS verification and privacy.| [onlinesim.io](https://onlinesim.io/) |
+| SmailPro          | Temporary disposable email service for anonymous sign-ups.| [smailpro.com](https://smailpro.com/) |
 
 ---
 
