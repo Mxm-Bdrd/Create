@@ -31,7 +31,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ---
 
-### 🛠️ 3D CAD / Parametric Modeling
+### 🛠️ 3D CAD & Parametric Modeling
 
 | Title | Description | Link |
 |-------|-------------|------|
@@ -41,7 +41,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ---
 
-### 🎨 3D Modeling / Creative Tools
+### 🎨 3D Modeling & Creative Tools
 
 | Title | Description | Link |
 |-------|-------------|------|
@@ -49,7 +49,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ---
 
-### 📦 3D Optimization / Slicing
+### 📦 3D Optimization & Slicing
 
 | Title | Description | Link |
 |-------|-------------|------|
@@ -60,7 +60,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ---
 
-### 🔧 Repairs / Maintenance
+### 🔧 Repairs & Maintenance
 
 | Title | Description | Link |
 |-------|-------------|------|
