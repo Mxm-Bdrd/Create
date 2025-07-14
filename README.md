@@ -43,10 +43,10 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ### 🎨 3D Modeling & Creative Tools
 
-| Title | Description                                                                                 | Link                            |
-|--------------|---------------------------------------------------------------------------------------------|---------------------------------|
-| Blender 👑   | A 3D suite for modeling, sculpting, animation, and rendering. **✅ Open Source** and ideal for creative workflows. | [blender.org](https://www.blender.org/) |
-| Hunyuan3D    | An **🤖 AI**-powered **✅ Open Source** tool that converts 2D images into 3D models, supporting efficient 3D asset creation. | [GitHub Repo](https://github.com/IDEA-Research/Hunyuan-3D) |
+| Title | Description | Link |
+|-------|-------------|------|
+| Blender 👑 | A 3D suite for modeling, sculpting, animation, and rendering. **✅ Open Source** and ideal for creative workflows. | [blender.org](https://www.blender.org/) |
+| Hunyuan3D | An **🤖 AI**-powered **✅ Open Source** tool that converts 2D images into 3D models, supporting efficient 3D asset creation. | [GitHub Repo](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) |
 
 ---
 
@@ -72,43 +72,43 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ### 🔒 Privacy & Anonymity
 
-| Title             | Description                                            | Link                       |
-|-------------------|--------------------------------------------------------|----------------------------|
+| Title | Description | Link |
+|-------|-------------|------|
 | DataFakeGenerator | Generate realistic fake identities for testing or privacy. | [datafakegenerator.com](https://datafakegenerator.com/) |
-| Quackr            | Temporary "burn" phone numbers for SMS verification.     | [quackr.io](https://quackr.io/) |
-| OnlineSim         | Disposable phone numbers for SMS verification and privacy.| [onlinesim.io](https://onlinesim.io/) |
-| SmailPro          | Temporary disposable email service for anonymous sign-ups.| [smailpro.com](https://smailpro.com/) |
+| Quackr | Temporary "burn" phone numbers for SMS verification. | [quackr.io](https://quackr.io/) |
+| OnlineSim | Disposable phone numbers for SMS verification and privacy. | [onlinesim.io](https://onlinesim.io/) |
+| SmailPro | Temporary disposable email service for anonymous sign-ups. | [smailpro.com](https://smailpro.com/) |
 
 ---
 
 ### 🎓 Schoolwork & Learning
 
-| Title             | Description                                               | Link                     |
-|-------------------|-----------------------------------------------------------|--------------------------|
-| Wolfram Alpha 👑  | A powerful computational engine that solves math problems, provides data, and answers queries using AI. | [wolframalpha.com](https://www.wolframalpha.com/) |
-| Anara             | A research platform that helps you find academic papers, journals, and scholarly articles efficiently. | [anara.com](https://anara.com/) |
-| Deepwebnest       | An online repository offering access to a wide range of pirated academic books and research materials. | [deepwebnest.com](https://deepwebnest.com/) |
-| Class Central     | A comprehensive aggregator of free online courses from top universities and institutions worldwide. | [classcentral.com](https://www.classcentral.com/) |
-| Internet Archive  | A massive digital archive containing books, academic papers, and multimedia resources freely accessible to all. | [archive.org](https://archive.org/) |
+| Title | Description | Link |
+|-------|-------------|------|
+| Wolfram Alpha 👑 | A powerful computational engine that solves math problems, provides data, and answers queries using **🤖 AI**. | [wolframalpha.com](https://www.wolframalpha.com/) |
+| Anara | A research platform that helps you find academic papers, journals, and scholarly articles efficiently. | [anara.com](https://anara.com/) |
+| Deepwebnest | An online repository offering access to a wide range of pirated academic books and research materials. | [deepwebnest.com](https://deepwebnest.com/) |
+| Class Central | A comprehensive aggregator of free online courses from top universities and institutions worldwide. | [classcentral.com](https://www.classcentral.com/) |
+| Internet Archive | A massive digital archive containing books, academic papers, and multimedia resources freely accessible to all. | [archive.org](https://archive.org/) |
 
 ---
 
 ### 🌐 Web Utilities & Interactives
 
-| Title           | Description                                                                 | Link                            |
-|-----------------|-----------------------------------------------------------------------------|---------------------------------|
-| Dungeon Scrawl        | Browser-based tool to quickly create D&D-style dungeon maps. Great for tabletop planning.     | [dungeonscrawl.com](https://dungeonscrawl.com/) |
-| Open Source Alternative | A curated directory of open-source alternatives to popular proprietary software and services. | [opensourcealternative.to](https://opensourcealternative.to/) |
-| QuickRef.me           | A collection of concise, well-organized cheat sheets for programmers and developers.          | [quickref.me](https://quickref.me/)     |
-| Intel Veracity        | Tool to search and monitor data breaches and exposed personal information online.             | [intel.veraxity.org](https://intel.veraxity.org/) |
-| TypingClub            | Online platform offering interactive lessons to improve keyboard typing speed and accuracy.   | [typingclub.com](https://www.typingclub.com/) |
+| Title | Description | Link |
+|-------|-------------|------|
+| Dungeon Scrawl | Browser-based tool to quickly create D&D-style dungeon maps. Great for tabletop planning. | [dungeonscrawl.com](https://dungeonscrawl.com/) |
+| Open Source Alternative | A curated directory of **✅ Open Source** alternatives to popular proprietary software and services. | [opensourcealternative.to](https://opensourcealternative.to/) |
+| QuickRef.me | A collection of concise, well-organized cheat sheets for programmers and developers. **🛠️ Utility** | [quickref.me](https://quickref.me/) |
+| Intel Veracity | Tool to search and monitor data breaches and exposed personal info online. **🛠️ Utility** | [intel.veraxity.org](https://intel.veraxity.org/) |
+| TypingClub | Interactive lessons to improve typing speed and accuracy. **🛠️ Utility** | [typingclub.com](https://www.typingclub.com/) |
 
 ---
 
 ### ✈️ Travel & Accommodation
 
-| Title         | Description | Link |
-|---------------|-------------|------|
+| Title | Description | Link |
+|-------|-------------|------|
 | Google Flights 👑 | Fast, flexible flight search with real-time pricing and alerts. Excellent for tracking trends and finding good deals. | [google.com/flights](https://www.google.com/flights) |
 | Hostelworld | Budget-friendly stays focused on hostels, dorms, and social lodging. Great for backpackers and solo travelers. | [hostelworld.com](https://www.hostelworld.com/) |
 | Booking.com | Large accommodation platform offering hotels, apartments, and travel deals. Often useful for last-minute bookings. | [booking.com](https://www.booking.com/) |
@@ -118,12 +118,14 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ---
 
-### 🖥️ PC Building  
+### 🖥️ PC Building
+
 See my [PC building guide](https://github.com/Mxm-Bdrd/The-PC-Building-Guide) on GitHub! 😊
 
 ---
 
-### 🧩 3D Printing  
+### 🧩 3D Printing
+
 See my [3D printing guide](https://github.com/Mxm-Bdrd/The-3D-Printing-Guide) on GitHub! 😊
 
 ---
