@@ -21,7 +21,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 | Title | Description | Link |
 |-------|-------------|------|
-| VSCodium 👑 | A fully **✅ Open Source** build of Visual Studio Code without telemetry or proprietary Microsoft features. | [vscodium.com](https://vscodium.com/) |
+| VSCodium 👑 | A fully **✅ Open Source** build of the Visual Studio Code IDE without telemetry or proprietary Microsoft features. | [vscodium.com](https://vscodium.com/) |
 | GitDocify | A **🤖 AI** tool that automatically creates documentation for your GitHub repositories. | [gitdocify.com](https://gitdocify.com/) |
 | GitHub Copilot | A coding assistant trained on public GitHub repositories. **🤖 AI** based, and can analyze your own repos. | [On GitHub](https://github.com/copilot) |
 
