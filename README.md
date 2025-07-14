@@ -43,9 +43,10 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ### 🎨 3D Modeling & Creative Tools
 
-| Title | Description | Link |
-|-------|-------------|------|
-| Blender 👑 | A 3D suite for modeling, sculpting, animation, and rendering. **✅ Open Source** and ideal for creative workflows. | [blender.org](https://www.blender.org/) |
+| Title | Description                                                                                 | Link                            |
+|--------------|---------------------------------------------------------------------------------------------|---------------------------------|
+| Blender 👑   | A 3D suite for modeling, sculpting, animation, and rendering. **✅ Open Source** and ideal for creative workflows. | [blender.org](https://www.blender.org/) |
+| Hunyuan3D    | An **🤖 AI**-powered **✅ Open Source** tool that converts 2D images into 3D models, supporting efficient 3D asset creation. | [GitHub Repo](https://github.com/IDEA-Research/Hunyuan-3D) |
 
 ---
 
@@ -96,7 +97,11 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 | Title           | Description                                                                 | Link                            |
 |-----------------|-----------------------------------------------------------------------------|---------------------------------|
-| Dungeon Scrawl  | Browser-based tool to quickly create D&D-style dungeon maps. Great for tabletop planning. | [dungeonscrawl.com](https://dungeonscrawl.com/) |
+| Dungeon Scrawl        | Browser-based tool to quickly create D&D-style dungeon maps. Great for tabletop planning.     | [dungeonscrawl.com](https://dungeonscrawl.com/) |
+| Open Source Alternative | A curated directory of open-source alternatives to popular proprietary software and services. | [opensourcealternative.to](https://opensourcealternative.to/) |
+| QuickRef.me           | A collection of concise, well-organized cheat sheets for programmers and developers.          | [quickref.me](https://quickref.me/)     |
+| Intel Veracity        | Tool to search and monitor data breaches and exposed personal information online.             | [intel.veraxity.org](https://intel.veraxity.org/) |
+| TypingClub            | Online platform offering interactive lessons to improve keyboard typing speed and accuracy.   | [typingclub.com](https://www.typingclub.com/) |
 
 ---
 
