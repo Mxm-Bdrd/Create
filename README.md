@@ -1,6 +1,6 @@
 # The Software Library
 
-This repository is a collection of software sourced from the internet. Its goal is to provide a ready-to-use reference of tools for a wide range of project needs. Each section focuses on a specific topic, listing relevant tools along with useful information. The 👑 emoji highlights the most valuable or recommended software (in my opinion) for that subject. Enjoy!
+This repository is a collection of software sourced from the internet. Its goal is to provide a ready-to-use reference of tools for a wide range of project needs. Each section focuses on a specific topic, listing relevant tools along with useful information. The 👑 emoji highlights the most valuable or recommended entries (in my opinion) for their respective subject. Enjoy!
 
 ---
 
