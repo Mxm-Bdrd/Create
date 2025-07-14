@@ -12,6 +12,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 - [📦 3D Optimization / Slicing](#-3d-optimization--slicing)
 - [🔧 Repairs / Maintenance](#-repairs--maintenance)
 - [🌐 Web Utilities](#-web-utilities)
+- [✈️ Travel & Accommodation](#-travel--accommodation)
 - [🖥️ PC Building](#-pc-building)
 - [🧩 3D Printing](#-3d-printing)
 
@@ -68,6 +69,19 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ### 🌐 Web Utilities
 *(Coming soon)*
+
+---
+
+### ✈️ Travel & Accommodation
+
+| Title         | Description | Link |
+|---------------|-------------|------|
+| Google Flights 👑 | Fast, flexible flight search with real-time pricing and alerts. Excellent for tracking trends and finding good deals. | [google.com/flights](https://www.google.com/flights) |
+| Hostelworld | Budget-friendly stays focused on hostels, dorms, and social lodging. Great for backpackers and solo travelers. | [hostelworld.com](https://www.hostelworld.com/) |
+| Booking.com | Large accommodation platform offering hotels, apartments, and travel deals. Often useful for last-minute bookings. | [booking.com](https://www.booking.com/) |
+| Airbnb | Rent rooms, apartments, or entire homes from locals. Great for longer stays and group trips. | [airbnb.com](https://www.airbnb.com/) |
+| Rome2Rio | Explore travel options across flights, trains, buses, and ferries. Excellent for route planning between distant locations. | [rome2rio.com](https://www.rome2rio.com/) |
+| TripIt | Automatically builds itineraries from your travel confirmation emails. Keeps plans organized in one place. | [tripit.com](https://www.tripit.com/) |
 
 ---
 
