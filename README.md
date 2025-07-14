@@ -7,10 +7,10 @@ This repository is a collection of software sourced from the internet. Its goal 
 ## 📚 List of Categories
 
 - [🧠 General Coding](#-general-coding)
-- [🛠️ 3D CAD / Parametric Modeling](#-3d-cad--parametric-modeling)
-- [🎨 3D Modeling / Creative Tools](#-3d-modeling--creative-tools)
-- [📦 3D Optimization / Slicing](#-3d-optimization--slicing)
-- [🔧 Repairs / Maintenance](#-repairs--maintenance)
+- [🛠️ 3D CAD & Parametric Modeling](#-3d-cad--parametric-modeling)
+- [🎨 3D Modeling & Creative Tools](#-3d-modeling--creative-tools)
+- [📦 3D Optimization & Slicing](#-3d-optimization--slicing)
+- [🔧 Repairs & Maintenance](#-repairs--maintenance)
 - [🔒 Privacy & Anonymity](#-privacy--anonymity)
 - [🎓 Schoolwork & Learning](#-schoolwork--learning)
 - [🌐 Web Utilities](#-web-utilities)
