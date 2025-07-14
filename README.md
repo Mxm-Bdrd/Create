@@ -12,6 +12,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 - [📦 3D Optimization / Slicing](#-3d-optimization--slicing)
 - [🔧 Repairs / Maintenance](#-repairs--maintenance)
 - [🔒 Privacy & Anonymity](#-privacy--anonymity)
+- [🎓 Schoolwork & Learning](#-schoolwork--learning)
 - [🌐 Web Utilities](#-web-utilities)
 - [✈️ Travel & Accommodation](#-travel--accommodation)
 - [🖥️ PC Building](#-pc-building)
@@ -76,6 +77,20 @@ This repository is a collection of software sourced from the internet. Its goal 
 | Quackr            | Temporary "burn" phone numbers for SMS verification.     | [quackr.io](https://quackr.io/) |
 | OnlineSim         | Disposable phone numbers for SMS verification and privacy.| [onlinesim.io](https://onlinesim.io/) |
 | SmailPro          | Temporary disposable email service for anonymous sign-ups.| [smailpro.com](https://smailpro.com/) |
+
+---
+
+### 🎓 Schoolwork & Learning
+
+| Title             | Description                                               | Link                     |
+|-------------------|-----------------------------------------------------------|--------------------------|
+| Anara             | Research tool for finding academic papers and resources. | [anara.com](https://anara.com/) |
+| Deepwebnest       | Archive of pirated books and academic materials.          | [deepwebnest.com](https://deepwebnest.com/) |
+| Class Central     | Aggregator of free online courses from top providers.     | [classcentral.com](https://www.classcentral.com/) |
+| Wolfram Alpha 👑  | Powerful AI math solver and computational engine.         | [wolframalpha.com](https://www.wolframalpha.com/) |
+| Library Genesis (LibGen) | Large repository of pirated books and academic content. | [libgen.rs](https://libgen.rs/), [libgen.is](https://libgen.is/) |
+| Internet Archive  | Massive archive including pirated books and media.        | [archive.org](https://archive.org/) |
+| Anna’s Archive    | Mirror of the Internet Archive focusing on academic works.| [annas-archive.org](https://annas-archive.org/) |
 
 ---
 
