@@ -13,7 +13,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 - [🔧 Repairs & Maintenance](#-repairs--maintenance)
 - [🔒 Privacy & Anonymity](#-privacy--anonymity)
 - [🎓 Schoolwork & Learning](#-schoolwork--learning)
-- [🌐 Web Utilities](#-web-utilities)
+- [🌐 Web Utilities & Interactives](#-web-utilities--interactives)
 - [✈️ Travel & Accommodation](#-travel--accommodation)
 - [🖥️ PC Building](#-pc-building)
 - [🧩 3D Printing](#-3d-printing)
@@ -92,7 +92,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ---
 
-### 🌐 Web Utilities & Miscellanous
+### 🌐 Web Utilities & Interactives
 
 | Title           | Description                                                                 | Link                            |
 |-----------------|-----------------------------------------------------------------------------|---------------------------------|
