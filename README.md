@@ -22,7 +22,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 | Title | Description | Link |
 |-------|-------------|------|
 | GitDocify | A ![AI](https://img.shields.io/badge/AI-🤖-blueviolet) tool that automatically creates documentation for your GitHub repositories. | [gitdocify.com](https://gitdocify.com/) |
-| GitHub Copilot | A ![AI](https://img.shields.io/badge/AI-🤖-blueviolet) coding assistant trained on public GitHub repositories. Can also analyze your own repos. | [On GitHub](https://github.com/copilot) |
+| GitHub Copilot | A ![AI](https://img.shields.io/badge/AI-🤖-blueviolet) coding assistant trained on public GitHub repositories. Can also analyze your own repos all at once. | [On GitHub](https://github.com/copilot) |
 
 ---
 
