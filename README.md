@@ -6,18 +6,18 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ## 📚 List of Categories
 
-- [🧠 General Coding](#-general-coding)
-- [🔄 Automation & Scripting](#-automation--scripting)
-- [🛠️ 3D CAD & Parametric Modeling](#-3d-cad--parametric-modeling)
-- [🎨 3D Modeling & Creative Tools](#-3d-modeling--creative-tools)
-- [📦 3D Optimization & Slicing](#-3d-optimization--slicing)
-- [🔧 Repairs & Maintenance](#-repairs--maintenance)
-- [🔒 Privacy & Anonymity](#-privacy--anonymity)
-- [🎓 Schoolwork & Learning](#-schoolwork--learning)
-- [🌐 Web Utilities & Interactives](#-web-utilities--interactives)
-- [✈️ Travel & Accommodation](#-travel--accommodation)
-- [🖥️ PC Building](#-pc-building)
-- [🧩 3D Printing](#-3d-printing)
+- [🧠 General Coding](#general-coding)
+- [🔄 Automation & Scripting](#automation--scripting)
+- [🛠️ 3D CAD & Parametric Modeling](#3d-cad--parametric-modeling)
+- [🎨 3D Modeling & Creative Tools](#3d-modeling--creative-tools)
+- [📦 3D Optimization & Slicing](#3d-optimization--slicing)
+- [🔧 Repairs & Maintenance](#repairs--maintenance)
+- [🔒 Privacy & Anonymity](#privacy--anonymity)
+- [🎓 Schoolwork & Learning](#schoolwork--learning)
+- [🌐 Web Utilities & Interactives](#web-utilities--interactives)
+- [✈️ Travel & Accommodation](#travel--accommodation)
+- [🖥️ PC Building](#pc-building)
+- [🧩 3D Printing](#3d-printing)
 
 ---
 
@@ -37,6 +37,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 | Title | Description | Link |
 |-------|-------------|------|
 | n8n 👑 | A powerful **✅ Open Source** workflow‑automation tool for connecting apps and automating tasks, with code‑level customization and easy self‑hosting. | [n8n.io](https://n8n.io/) |
+| Axiom.ai  | A bot creation platform to automate repetitive web tasks without coding. Great for data scraping and task automation. | [axiom.ai](https://axiom.ai/) |
 
 ---
 
