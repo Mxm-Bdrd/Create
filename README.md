@@ -48,10 +48,10 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 | Title | Description | Link |
 |-------|-------------|------|
-| NVIDIA PartPacker 👑 | A tool that arranges 3D parts efficiently for resin printing or CNC prep. **✅ Open Source**. | [GitHub Repo](https://github.com/NVlabs/PartPacker) |
-| OrcaSlicer 👑 | A slicer for FDM and resin printing with excellent features. **✅ Open Source**. | [orcabuilder.com](https://www.orcabuilder.com/) |
+| NVIDIA PartPacker 👑 | A tool that arranges 3D parts efficiently for resin printing or CNC prep. It can also be used for converting 2D parts into optimized 3D arrangements. **✅ Open Source**. | [GitHub Repo](https://github.com/NVlabs/PartPacker) |
+| OrcaSlicer | A slicer for FDM and resin printing with excellent features. **✅ Open Source**. | [orcabuilder.com](https://www.orcabuilder.com/) |
 | PrusaSlicer | A well-supported slicer for FDM and resin. **✅ Open Source** and maintained by Prusa Research. | [prusa3d.com](https://www.prusa3d.com/page/prusaslicer_424/) |
-| Lychee Slicer | A slicer focused on resin printing with smart supports and STL repair. 🧫 **Resin**. | [mango3d.io](https://mango3d.io/) |
+| Lychee Slicer | A slicer focused on resin printing with smart supports and STL repair. | [mango3d.io](https://mango3d.io/) |
 
 ---
 
