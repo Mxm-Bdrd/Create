@@ -85,13 +85,10 @@ This repository is a collection of software sourced from the internet. Its goal 
 | Title             | Description                                               | Link                     |
 |-------------------|-----------------------------------------------------------|--------------------------|
 | Wolfram Alpha 👑  | A powerful computational engine that solves math problems, provides data, and answers queries using AI. | [wolframalpha.com](https://www.wolframalpha.com/) |
-| Anna’s Archive 👑 | A mirror of the Internet Archive focusing on preserving and providing access to academic and scholarly content. | [annas-archive.org](https://annas-archive.org/) |
 | Anara             | A research platform that helps you find academic papers, journals, and scholarly articles efficiently. | [anara.com](https://anara.com/) |
 | Deepwebnest       | An online repository offering access to a wide range of pirated academic books and research materials. | [deepwebnest.com](https://deepwebnest.com/) |
 | Class Central     | A comprehensive aggregator of free online courses from top universities and institutions worldwide. | [classcentral.com](https://www.classcentral.com/) |
-| Library Genesis (LibGen) | A vast digital library offering free access to millions of academic books and articles. | [libgen.rs](https://libgen.rs/), [libgen.is](https://libgen.is/) |
 | Internet Archive  | A massive digital archive containing books, academic papers, and multimedia resources freely accessible to all. | [archive.org](https://archive.org/) |
-
 
 ---
 
@@ -120,3 +117,8 @@ See my [PC building guide](https://github.com/Mxm-Bdrd/The-PC-Building-Guide) on
 
 ### 🧩 3D Printing  
 See my [3D printing guide](https://github.com/Mxm-Bdrd/The-3D-Printing-Guide) on GitHub! 😊
+
+---
+
+### For more 'open-source' things...
+https://www.reddit.com/r/Piracy/wiki/megathread/
