@@ -92,8 +92,11 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ---
 
-### 🌐 Web Utilities
-*(Coming soon)*
+### 🌐 Web Utilities & Miscellanous
+
+| Title           | Description                                                                 | Link                            |
+|-----------------|-----------------------------------------------------------------------------|---------------------------------|
+| Dungeon Scrawl  | Browser-based tool to quickly create D&D-style dungeon maps. Great for tabletop planning. | [dungeonscrawl.com](https://dungeonscrawl.com/) |
 
 ---
 
