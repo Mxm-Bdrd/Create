@@ -34,6 +34,8 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ### 🔄 Automation & Scripting
 
+| Title | Description | Link |
+|-------|-------------|------|
 | n8n 👑 | A powerful **✅ Open Source** workflow‑automation tool for connecting apps and automating tasks, with code‑level customization and easy self‑hosting. | [n8n.io](https://n8n.io/) |
 | Axiom.ai | A bot‑creation platform to automate repetitive web tasks without coding. Great for data scraping and task automation. | [axiom.ai](https://axiom.ai/) |
 | Emergent.sh | Generates production‑ready code templates and infrastructure boilerplate from simple prompts. **🤖 AI** | [emergent.sh](https://emergent.sh/) |
