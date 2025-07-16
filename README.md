@@ -8,6 +8,7 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 - [🧠 General Coding](#🧠-general-coding)
 - [🔄 Automation & Scripting](#🔄-automation--scripting)
+- 
 - [🛠️ 3D CAD & Parametric Modeling](#🛠️-3d-cad--parametric-modeling)
 - [🎨 3D Modeling & Creative Tools](#🎨-3d-modeling--creative-tools)
 - [📦 3D Optimization & Slicing](#📦-3d-optimization--slicing)
@@ -45,6 +46,14 @@ This repository is a collection of software sourced from the internet. Its goal 
 | Bolt.new | A **🤖 AI** code‑generation tool that builds and deploys modern apps (React/Next.js) from text prompts. | [bolt.new](https://bolt.new/) |
 | Enzo’s DeepSite | A Hugging Face‑hosted **🤖 AI** prototype that generates working landing pages from descriptions. | [enzostvs-deepsite.hf.space](https://enzostvs-deepsite.hf.space) |
 | Google Stitch | A **🤖 AI** UI design tool by Google that uses prompts to generate app layouts and design elements. | [stitch.design](https://stitch.design) |
+
+---
+
+### ✨ QoL & Perks
+
+| Title | Description | Link |
+|-------|-------------|------|
+| Obsidian | A powerful and flexible note-taking tool built on local Markdown files. Great for knowledge management and personal wikis. | [obsidian](https://obsidian.md/) |
 
 ---
 
