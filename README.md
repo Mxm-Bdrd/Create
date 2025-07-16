@@ -34,10 +34,15 @@ This repository is a collection of software sourced from the internet. Its goal 
 
 ### 🔄 Automation & Scripting
 
-| Title | Description | Link |
-|-------|-------------|------|
-| n8n 👑 | A powerful **✅ Open Source** workflow-automation tool for connecting apps and automating tasks, with code-level customization and easy self-hosting. | [n8n.io](https://n8n.io/) |
-| Axiom.ai | A bot creation platform to automate repetitive web tasks without coding. Great for data scraping and task automation. | [axiom.ai](https://axiom.ai/) |
+| n8n 👑 | A powerful **✅ Open Source** workflow‑automation tool for connecting apps and automating tasks, with code‑level customization and easy self‑hosting. | [n8n.io](https://n8n.io/) |
+| Axiom.ai | A bot‑creation platform to automate repetitive web tasks without coding. Great for data scraping and task automation. | [axiom.ai](https://axiom.ai/) |
+| Emergent.sh | Generates production‑ready code templates and infrastructure boilerplate from simple prompts. **🤖 AI** | [emergent.sh](https://emergent.sh/) |
+| Softgen.ai | AI‑driven generator that scaffolds full‑stack app templates (database, auth, UI) in minutes. **🤖 AI** | [softgen.ai](https://softgen.ai/) |
+| lovable.dev | A **🤖 AI** builder that generates clean, responsive UI components from simple prompts. Good for quick front‑end ideas. | [lovable.dev](https://lovable.dev/) |
+| v0.dev | A **🤖 AI** UI builder by Vercel that turns natural language prompts into Tailwind‑coded components. | [v0.dev](https://v0.dev/) |
+| Bolt.new | A **🤖 AI** code‑generation tool that builds and deploys modern apps (React/Next.js) from text prompts. | [bolt.new](https://bolt.new/) |
+| Enzo’s DeepSite | A Hugging Face‑hosted **🤖 AI** prototype that generates working landing pages from descriptions. | [enzostvs-deepsite.hf.space](https://enzostvs-deepsite.hf.space) |
+| Google Stitch | A **🤖 AI** UI design tool by Google that uses prompts to generate app layouts and design elements. | [stitch.design](https://stitch.design) |
 
 ---
 
