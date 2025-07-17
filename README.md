@@ -1,6 +1,5 @@
 # The Software Library  
-_Last Updated: 2025-07-16_
-_Version 1.1_
+_Last Updated: 2025-07-16_ • _Version 1.1_
 
 This repository is a collection of software sourced from the internet. Its goal is to provide a ready-to-use reference of tools for a wide range of projects and daily needs. Each section focuses on a specific topic, listing relevant tools along with useful information. The 👑 emoji highlights the most valuable or recommended entries (in my opinion) for their respective subject. Enjoy!
 
