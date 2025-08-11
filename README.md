@@ -51,6 +51,7 @@ Workflow automators and no-code tools to simplify digital tasks.
 | Bolt.new | Deploy React/Next.js apps via **🤖 AI** prompts. | [bolt.new](https://bolt.new/) |
 | Enzo’s DeepSite | Build landing pages with HuggingFace-hosted **🤖 AI**. | [hf.space](https://enzostvs-deepsite.hf.space) |
 | Google Stitch | **🤖 AI** app layout generator from text. | [stitch.design](https://stitch.design) |
+| Base44 | AI app builder | |
 
 ---
 
